@@ -3,7 +3,7 @@
     <base-header />
 
     <component v-if="layout" :is="layout" />
-    <home v-else-if="$page.frontmatter.home" />
+    <!--<home v-else-if="$page.frontmatter.home" />-->
     <page v-else />
 
     <base-footer />
