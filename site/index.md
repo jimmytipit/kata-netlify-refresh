@@ -1,5 +1,4 @@
 ---
-layout: Home
 title: Kata Containers Home
 hero:
   button:
