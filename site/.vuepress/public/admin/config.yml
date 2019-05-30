@@ -7,19 +7,6 @@ publish_mode: editorial_workflow
 media_folder: "site/.vuepress/public/images"
 public_folder: "/images"
 collections:
-  - name: "blog-posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog Posts" # Used in the UI
-    folder: "site/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Author", name: "author", widget: "text" }
-      - { label: "Date", name: "date", widget: "date" }
-      - { label: "Cateogry", name: "category", widget: "text" }
-    editor:
-      preview: false
 
   - name: "main-pages"
     label: "Main Pages"
