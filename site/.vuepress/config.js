@@ -9,5 +9,6 @@ module.exports = {
     nav: json.nav,
     footer: footer
   },
-  head: [["link", { rel: "icon", href: "/favicons/favicon.ico" }]]
+  head: [["link", { rel: "icon", href: "/favicons/favicon.ico" }]],
+  ga: "UA-110599884-1"
 };
