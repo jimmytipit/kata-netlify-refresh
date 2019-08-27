@@ -31,7 +31,7 @@
       </tr>
       <tr>
         <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/preformance-growth.svg')" alt="Performance"/><h6>Performance</h6></td>
-        <td>Delivers consistent performance as standard Linux containers; increased isolation with the performance tax of standard virtual machines.</td>
+        <td>Delivers consistent performance as standard Linux containers; increased isolation without the performance tax of standard virtual machines.</td>
       </tr>
       <tr>
         <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/bullseye-simplicity.svg')" alt="Simplicity"/><h6>Simplicity</h6></td>
