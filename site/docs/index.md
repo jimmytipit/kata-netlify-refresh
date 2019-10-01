@@ -26,7 +26,7 @@ Understand the basics, contribute to and try using Kata Containers.
 
 Design and Implementations
 
-* [Kata Containers Architecture](https://github.com/kata-containers/documentation/blob/master/architecture.md) : Architectural overview of Kata Containers
+* [Kata Containers Architecture](https://github.com/kata-containers/documentation/blob/master/design/architecture.md) : Architectural overview of Kata Containers
 * [Kata Containers design](https://github.com/kata-containers/documentation/tree/master/design) : More Kata Containers design documents
 
 How to Contribute
