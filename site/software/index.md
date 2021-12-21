@@ -49,7 +49,7 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
      <div class="box-text"><div class="software-icon" style="align-content: middle"><figure class="image is-64x64">
       <img style="height: 56.13px" src="../.vuepress/theme/svg/document_primary-dark.svg">
       </figure></div><h3 class="is-software">View the Documentation</h3>
-      <a href="https://github.com/kata-containers/documentation" class="a-primary-blue">
+      <a href="https://github.com/kata-containers/kata-containers/blob/main/docs" class="a-primary-blue">
         Get Started &nbsp <img src="../.vuepress/theme/svg/arrow-left_primary-dark.svg">
       </a></div>
     </div>
